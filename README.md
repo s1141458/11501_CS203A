@@ -39,3 +39,4 @@ Related links:
 - [Link to the course description on Professor Huang's course repo](https://github.com/yfhuang/YZUCSE_CS203)
 
 ### Personal Hopes and Goals for the Course:
+I hope that by the end of this course, I would be able to understand and recognize the mechanisms and usages for a variety of data structures, understand the benefits and downsides to each structure and the scenarios where each could be used, and also understand related algorithms, efficiency analysis and time complexity related to the structures. But what I'm most excited about is the implementation of the structures using object-oriented programming and pointer logic as well as applications where different structures can be used together, and also understanding the theory and details behind each structure as well as algorithms used for traversal and modifying data.
