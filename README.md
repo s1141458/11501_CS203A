@@ -34,6 +34,7 @@ Topics include:
 - H. Advanced data structures
 - I. Applications of data structures
 
+Related links:
 - Link to YZU description of CS203A course:
 - Link to the course description on Professor Huang's course repo:
 
