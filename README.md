@@ -35,7 +35,7 @@ Topics include:
 - I. Applications of data structures
 
 Related links:
-- [Link to YZU description of CS203A course]
-- [Link to the course description on Professor Huang's course repo]
+- [Link to YZU description of CS203A course](https://portalfun.yzu.edu.tw/cosSelect/Cos_Plan.aspx?y=115&s=1&id=CS203&c=A)
+- [Link to the course description on Professor Huang's course repo](https://github.com/yfhuang/YZUCSE_CS203)
 
 ### Personal Hopes and Goals for the Course:
